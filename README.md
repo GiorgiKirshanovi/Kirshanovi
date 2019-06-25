@@ -1,2 +1,0 @@
-# GEORGE
-Hello Word
